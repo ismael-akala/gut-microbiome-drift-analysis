@@ -3,13 +3,13 @@ message: "If you use this pipeline or technical report, please cite it as below.
 authors:
   - family-names: "Akala"
     given-names: "Ismael Muriuki"
-    orcid: "https://orcid.org"
+    orcid: "https://orcid.org/0009-0003-2361-3889"
 title: "A Reproducible Meta-Analytic Pipeline for Quantifying Ecological Bottlenecks, Alpha Diversity Decay, and Core Biomarker Fluctuations in Ex Vivo Human Gut Microbiota Fermentations"
 version: 1.0.0
-doi: 10.5281/zenodo.22863070
+doi: 10.21203/rs.3.rs-11118628/v1
 date-released: 2026-09-22
 url: "https://github.com"
-repository-code: "https://github.com"
+repository-code: "https://github.com/ismael-akala/gut-microbiome-drift-analysis"
 keywords:
   - gut-microbiome
   - alpha-diversity
