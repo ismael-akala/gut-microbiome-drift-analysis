@@ -1,5 +1,5 @@
 # Quantifying Taxonomic Drift and Alpha Diversity Collapse in Bioreactor-Derived Human Gut Microbiota
-
+https://doi.org/10.5281/zenodo.22863070
 A reproducible statistical pipeline and data validation workflow tracking community restructuring, alpha diversity decay, and key biomarker abundance shifts during the host-to-vessel transition in ex vivo gut modeling.
 
 ## Data Grounding & Attribution
