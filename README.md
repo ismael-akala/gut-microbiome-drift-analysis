@@ -1,5 +1,5 @@
 # Quantifying Taxonomic Drift and Alpha Diversity Collapse in Bioreactor-Derived Human Gut Microbiota
-https://www.researchsquare.com/article/rs-11118628/v1
+https://doi.org/10.21203/rs.3.rs-11118628/v1
 A reproducible statistical pipeline and data validation workflow tracking community restructuring, alpha diversity decay, and key biomarker abundance shifts during the host-to-vessel transition in ex vivo gut modeling.
 
 ## Data Grounding & Attribution
@@ -28,7 +28,7 @@ In addition to global alpha diversity metrics, the script dynamically monitors t
 3.  **Iterative Statistical Loops:** Uses automated formula mapping to run comparative statistical aggregates and tests across all indices and biological markers simultaneously, eliminating repetitive scripting.
 
 ## Data, Code, and Manuscript Availability Statement
-The metagenomic species pangenome abundance matrix analyzed in this study was derived from Bressuire et al. (2025). All custom R scripts, statistical outputs, and summary tables generated during this analysis are publicly archived on GitHub at https://github.com/ismael-akala/gut-microbiome-drift-analysis. The definitive text of this technical note is hosted as an open-access preprint via Research Square at https://www.researchsquare.com/article/rs-11118628/v1, while the version-controlled computing environment and data assets are permanently archived via Zenodo at https://doi.org/10.5281/zenodo.22863070.
+The metagenomic species pangenome abundance matrix analyzed in this study was derived from Bressuire et al. (2025). All custom R scripts, statistical outputs, and summary tables generated during this analysis are publicly archived on GitHub at https://github.com/ismael-akala/gut-microbiome-drift-analysis. The definitive text of this technical note is hosted as an open-access preprint via Research Square at https://doi.org/10.21203/rs.3.rs-11118628/v1, while the version-controlled computing environment and data assets are permanently archived via Zenodo at https://doi.org/10.5281/zenodo.22863070.
 
 
 
