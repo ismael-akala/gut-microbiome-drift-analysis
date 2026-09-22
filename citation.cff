@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this pipeline or technical report, please cite it as below."
+authors:
+  - family-names: "Akala"
+    given-names: "Ismael Muriuki"
+    orcid: "https://orcid.org"
+title: "A Reproducible Meta-Analytic Pipeline for Quantifying Ecological Bottlenecks, Alpha Diversity Decay, and Core Biomarker Fluctuations in Ex Vivo Human Gut Microbiota Fermentations"
+version: 1.0.0
+doi: 10.5281/zenodo.22863070
+date-released: 2026-09-22
+url: "https://github.com"
+repository-code: "https://github.com"
+keywords:
+  - gut-microbiome
+  - alpha-diversity
+  - bioreactor-drift
+  - r-pipeline
+  - metagenomics
