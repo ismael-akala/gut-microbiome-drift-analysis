@@ -28,4 +28,5 @@ In addition to global alpha diversity metrics, the script dynamically monitors t
 3.  **Iterative Statistical Loops:** Uses automated formula mapping to run comparative statistical aggregates and tests across all indices and biological markers simultaneously, eliminating repetitive scripting.
 
 ## Data and Code Availability Statement
-The metagenomic species pangenome abundance matrix analyzed in this study was derived from Bressuire et al. (2025). All custom R scripts and summary data tables generated during this analysis are publicly archived on GitHub at https://github.com/ismael-akala/gut-microbiome-drift-analysis.
+The metagenomic species pangenome abundance matrix analyzed in this study was derived from Bressuire et al. (2025). All custom R scripts, statistical outputs, and summary tables generated during this analysis are publicly archived on GitHub at  https://github.com/ismael-akala/gut-microbiome-drift-analysis, and the definitive technical note is permanently available via Zenodo at https://doi.org/10.5281/zenodo.22863070.
+
